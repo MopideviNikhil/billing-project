@@ -38,7 +38,3 @@ RetailEase is a full-stack web application designed to streamline product manage
 - Razorpay (Payment Integration)
 - Git & GitHub (Version Control)
 
----
-
-## 📂 Project Structure
-
